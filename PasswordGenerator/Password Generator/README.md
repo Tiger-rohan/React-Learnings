@@ -24,3 +24,7 @@ A dynamic and responsive password generator built with React and Tailwind CSS.
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/password-generator.git
+
+## Images of the App
+<img width="871" alt="Password Gen" src="https://github.com/Tiger-rohan/React-Learnings/assets/162948010/1c41042a-6070-4bf6-a648-99ab9bfc27ab">
+
